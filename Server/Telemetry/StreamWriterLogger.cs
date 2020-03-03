@@ -30,7 +30,7 @@ namespace Server {
                 Stopwatch timePerParse = Stopwatch.StartNew();
                 await _stream.WriteAsync(message);
 
-                _logger.LogWarning("The request took {NanoSeconds} to complete", timePerParse.ElapsedTicks);
+                _logger.LogWarning("The request took {ElapsedSeconds} to complete", timePerParse.ElapsedTicks);
             }
         }
     }

@@ -7,6 +7,7 @@ namespace Server{
             SomeSchema s = new SomeSchema();
             foreach( var t in source){
                 string? key = keySelector(t) as string;
+                Console.WriteLine("adding " + key + " to the SomeSchema data set");
 
                 switch(key)
                 {
@@ -16,7 +17,11 @@ namespace Server{
                     case nameof(SomeSchema.SaintNick):
                         s.SaintNick = elementSelector(t) as string;
                         break;
+                    case "{"+nameof(SomeSchema.OriginalFormat)+"}":
+                        s.OriginalFormat = elementSelector(t) as string;
+                        break;
                     default:
+                        Console.WriteLine("noooooooo " + key);
                         continue;
                 }
             }
