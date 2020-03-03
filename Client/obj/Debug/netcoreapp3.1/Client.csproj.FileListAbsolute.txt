@@ -1,0 +1,16 @@
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/bin/Debug/netcoreapp3.1/Client.deps.json
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/bin/Debug/netcoreapp3.1/Client.runtimeconfig.json
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/bin/Debug/netcoreapp3.1/Client.runtimeconfig.dev.json
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/bin/Debug/netcoreapp3.1/Client.dll
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/bin/Debug/netcoreapp3.1/Client.pdb
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/bin/Debug/netcoreapp3.1/Grpc.Core.Api.dll
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/bin/Debug/netcoreapp3.1/Grpc.Net.Client.dll
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/bin/Debug/netcoreapp3.1/Grpc.Net.Common.dll
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/obj/Debug/netcoreapp3.1/Client.csprojAssemblyReference.cache
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/obj/Debug/netcoreapp3.1/Client.AssemblyInfoInputs.cache
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/obj/Debug/netcoreapp3.1/Client.AssemblyInfo.cs
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/obj/Debug/netcoreapp3.1/Client.csproj.CopyComplete
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/obj/Debug/netcoreapp3.1/Client.dll
+/Users/dalinwilliams/workdir/github/grpc-dotnet/examples/Logger/Client/obj/Debug/netcoreapp3.1/Client.pdb
